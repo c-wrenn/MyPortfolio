@@ -40,21 +40,34 @@ padding-left: 15px ;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    width: 100%;
+    /* width: 900px; */
     padding: 10px 10px 10px 15px;
     
 }
 .bottom-projects {
     display: inline-flex;
     flex-direction: row; 
-    width: 150px;
+    width: 250px;
+    height: 100px;
  
+}
+.proj-one img {
+    width: 1850px;
 }
 .proj-two {
     padding: 10px 10px 10px 15px;
 }
+.proj-two img{
+    width: 920px;
+    height:500px ;
+}
 .proj-three {
     padding: 10px 10px 10px 15px;
+  
+}
+.proj-three img {
+    width:920px;
+    height: 500px;
 }
 
 img {
