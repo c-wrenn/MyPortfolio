@@ -4,15 +4,14 @@ This project was designed to showcase a responsive porfolio that includes inform
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This application was developed to display my skills
+
+This application was developed to display my full-stack JavaScript knowledge.
 
 ## Table of Contents
 
 - [Description](#description)
 - [Usage](#usage)
-
 - [License](#license)
-
 - [Questions](#questions)
 
 ## Usage
@@ -46,10 +45,8 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 ## Questions
+
 Github: https://github.com/c-wrenn
 
 Email: crislynwren@yahoo.com
 
-![Horiseon](image.png)
-![employeetracker](image-1.png)
-![Note Taker](image-2.png)
