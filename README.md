@@ -1,14 +1,23 @@
 # MyPortfolio
-View all roles, departments, and employees in your company!
+This project was designed to showcase a responsive porfolio that includes information about me, my contact information, and my full-stack JavaScript projects.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 This application was developed to display my skills
 
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+
+- [License](#license)
+
+- [Questions](#questions)
+
 ## Usage
 
-This ------- utilizes HTML and CSS.
+This personal portfolio utilizes HyperlinkText Markup Language (HTML) and Cascading Style Sheets (CSS).
 
 ## License
 
@@ -35,13 +44,12 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Contributions
-If you would like to contribute to this project please either fork or clone the repository. Once you have cloned or forked the repository, you can begin making changes.
-
-## Tests
-n/a
 
 ## Questions
 Github: https://github.com/c-wrenn
 
 Email: crislynwren@yahoo.com
+
+![Horiseon](image.png)
+![employeetracker](image-1.png)
+![Note Taker](image-2.png)

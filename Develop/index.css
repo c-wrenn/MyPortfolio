@@ -1,0 +1,93 @@
+header {
+    width: 100%;
+    background-color: whitesmoke;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    display: inline-flex;
+    width: 30%;
+    padding-right: 340px;
+}
+
+.navigation ol a {
+    font-size: 20px;
+    color: black;
+    padding: 0px 15px 0px 15px;
+   
+}
+
+.navigation ol {
+    align-items: right;
+    display: inline-flex;
+}
+
+.navigation ol a:hover {
+color: rgb(184, 173, 173);
+}
+
+.about-section {
+color: rgb(31, 30, 30);
+font-size:20px ;
+font-family: 'Courier New', Courier, monospace;
+border: solid;
+border-radius: 5px;
+margin: 15px;
+padding-left: 15px ;
+}
+.proj-one a{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px 10px 10px 15px;
+    
+}
+.bottom-projects {
+    display: inline-flex;
+    flex-direction: row; 
+    width: 150px;
+ 
+}
+.proj-two {
+    padding: 10px 10px 10px 15px;
+}
+.proj-three {
+    padding: 10px 10px 10px 15px;
+}
+
+img {
+border: solid;
+border-radius: 5px;
+color: black;
+
+}
+img:hover {
+    border: solid;
+    border-radius: 5px;
+    color: grey;
+}
+
+
+.contact {
+    color: rgb(31, 30, 30);
+font-size:20px ;
+font-family: 'Courier New', Courier, monospace;
+border: solid;
+border-radius: 5px;
+margin-bottom: 15px;
+}
+.contact a {
+    display: block;
+    padding: 5px 0px 10px 15px;
+}
+.contact p {
+    text-align:center;
+    padding-left: 15px;
+}
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    text-align: center;
+}
